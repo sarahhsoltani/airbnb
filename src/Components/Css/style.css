@@ -59,7 +59,7 @@
     color: white;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 79vh;
+    height: 53vh;
 }
 .btn-savoir{
     background-color: white;
@@ -70,4 +70,13 @@ span{
     font-size: 26px;
     font-weight: 400;
     line-height: 36px;
+}
+.footer{
+    background-color: #f7f7f7;
+}
+.footer a {
+    color: #222222 ;
+    font-size: 14px;
+    line-height: 43px ;
+    text-decoration: none 
 }

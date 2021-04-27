@@ -5,6 +5,7 @@ import Header from './Components/Navbar';
 import CompanyParent from './Components/compagnie/CompanyParent';
 import { Container } from 'react-bootstrap';
 import ExperienceParent from './Components/Experience/ExperienceParent';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -28,7 +29,9 @@ function App() {
        <span>Des activités uniques avec des experts locaux, en personne ou en ligne.</span>
  
  <ExperienceParent/>
+
   </Container>
+  <Footer/>
      
     </div>
   );

@@ -25,7 +25,7 @@ const Header = (props) => {
   </Navbar.Collapse>
  
 </Navbar>
-<div className="title">
+<div className="title pb-5">
 <h1>En <br/> pleine nature</h1>
 <p>Favoris sélectionnés par Airbnb.</p>
 <Button className="btn btn-inspire">Trouver l'inspiration</Button>
